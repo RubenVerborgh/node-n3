@@ -45,3 +45,27 @@ export {
   termFromId,
   termToId,
 };
+
+export default {
+  Lexer,
+  Parser,
+  Writer,
+  Store,
+  StreamParser,
+  StreamWriter,
+  Util,
+
+  DataFactory,
+
+  Term,
+  NamedNode,
+  Literal,
+  BlankNode,
+  Variable,
+  DefaultGraph,
+  Quad,
+  Triple,
+
+  termFromId,
+  termToId,
+};
